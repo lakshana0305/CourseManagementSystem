@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="CourseManagementSystem.API/CourseManagementSystem.API.csproj" />
+  <Project Path="CourseManagementSystem.Application/CourseManagementSystem.Application.csproj" Id="5f33ce02-86ce-463f-b8ce-057680320a2b" />
+  <Project Path="CourseManagementSystem.Domain/CourseManagementSystem.Domain.csproj" Id="107ce83c-6a55-4a44-b91b-3928ca67a946" />
+  <Project Path="CourseManagementSystem.Infrastructure/CourseManagementSystem.Infrastructure.csproj" Id="1fa910f2-0bdd-43fd-b56a-1eda81b4c697" />
+  <Project Path="CourseManagementSystem.Tests/CourseManagementSystem.Tests.csproj" Id="96cec6ff-11b7-4462-a5ec-a9f147e1a299" />
+</Solution>
